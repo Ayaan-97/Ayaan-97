@@ -1,16 +1,16 @@
 <p align="center">
   <a href="https://github.com/Ayaan-97">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hi%2C%20I'm%20Ayan%20Adan" alt="Hi, I&#39;m Ayan Adan" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontSize=54&height=90&width=634&text=Hi%2C%20I'm%20Ayan%20Adan" alt="Hi, I&#39;m Ayan Adan" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Hello!%20%20I'm%20Software%20Engineering%20And%20AI%20%26%20Innovation%20Enthusiast;%E2%80%9CCode%20is%20not%20just%20code%20%E2%80%94%20it%E2%80%99s%20creativity%2C%20problem%20solving%2C%20and%20building%20the%20future.%E2%80%9D" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Hello!%20%20I'm%20Software%20Engineering%20And%20AI%20%26%20Innovation%20Enthusiast" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-🌱 Currently learning: Full-Stack Development (MERN) &amp; Code in Place  
+🌱 Currently learning: Full-Stack Development and Mobile application &amp; Code in Place  
 💻 Passionate about building clean, scalable web applications  
 🎯 Focused on improving my development skills every day
 
@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ### 🔗 Connect With Me
@@ -45,20 +43,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ayaan-97&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ayaan-97&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ayaan-97&show_icons=true&theme=default&title_color=000000&icon_color=000000&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ayaan-97&layout=compact&theme=default&title_color=000000&icon_color=000000&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Ayaan-97&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Ayaan-97&bg_color=00000000&color=000000&line=000000&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
 </p>
 
 ---
