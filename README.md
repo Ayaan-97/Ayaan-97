@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/Ayaan-97">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20%20I'm%20Software%20Engineering%20And%20AI%20%26%20Innovation%20Enthusiast" alt="Hello!  I&#39;m Software Engineering And AI &amp; Innovation Enthusiast" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hi%2C%20I'm%20Ayan%20Adan" alt="Hi, I&#39;m Ayan Adan" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=%E2%80%9CBelieve%20you%20can%20and%20you're%20halfway%20there.%E2%80%9D;%E2%80%9CCode%20is%20not%20just%20code%20%E2%80%94%20it%E2%80%99s%20creativity%2C%20problem%20solving%2C%20and%20building%20the%20future.%E2%80%9D" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Hello!%20%20I'm%20Software%20Engineering%20And%20AI%20%26%20Innovation%20Enthusiast;%E2%80%9CCode%20is%20not%20just%20code%20%E2%80%94%20it%E2%80%99s%20creativity%2C%20problem%20solving%2C%20and%20building%20the%20future.%E2%80%9D" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -63,4 +63,3 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Ayaan-97">Ayaan-97</a></i></p>
-
